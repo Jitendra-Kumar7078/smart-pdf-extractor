@@ -17,8 +17,6 @@ It allows users to upload PDF files and view extracted questions in a clean UI.
 
 ## ⚙️ Setup Instructions
 
-1. Clone the repository:
-```bash
 git clone https://github.com/Jitendra-Kumar7078/pdf-extractor-frontend.git
 Navigate to project:
 cd pdf-frontend
