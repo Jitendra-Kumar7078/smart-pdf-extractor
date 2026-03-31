@@ -33,9 +33,9 @@ Make sure backend is running on:
 http://localhost:8080
 📸 Screenshots
 
-sCREENSHOT1:   https://drive.google.com/file/d/1YH5AqkflxidwFcYE-B199gq5F6a7z4S7/view?usp=sharing
+SCREENSHOT1:   https://drive.google.com/file/d/1YH5AqkflxidwFcYE-B199gq5F6a7z4S7/view?usp=sharing
 
-sCREENSHOT2:   https://drive.google.com/file/d/1Rc9GBY0-F_JC4av92O77BdJlXTCbzrtk/view?usp=drive_link
+SCREENSHOT2:   https://drive.google.com/file/d/1Rc9GBY0-F_JC4av92O77BdJlXTCbzrtk/view?usp=drive_link
 
 
 
